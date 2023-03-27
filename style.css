@@ -1,0 +1,55 @@
+.pythonsatauri{
+    margin-left: 50%;
+    color: aqua;
+}
+
+body{
+    background-color: black;
+    color: brown;
+}
+.image{
+    width: 15%;
+    width: 115px;
+    height: px;
+    margin-left: 79%;
+    border-radius: 50%;
+    margin-top: 250px;
+    position: absolute;
+
+}
+
+
+.apps{
+    margin-left: 40%;
+}
+
+
+.pycharm{
+    font-size: 20px;
+}
+
+
+.photo{
+    border-radius: 50%;
+    width: 90px;
+    
+}
+
+.photovscode{
+    width: 140px;
+    border-radius: 50%;
+    height: 130px;
+
+}
+
+.button{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+    color: red;
+}

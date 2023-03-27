@@ -1,0 +1,20 @@
+.button1{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    font-size: 25px;
+    cursor: pointer;
+
+    
+}
+
+.button1:hover{
+    background-color: black;
+    color: red;
+}
+
+
+body{
+    background-color: black;
+    color: red;
+}
